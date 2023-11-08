@@ -1,8 +1,12 @@
-# Using MLflow to Experiment for machine learning models.
-# Use of the Databricks platform, PySpark tool, MLflow library to analyze machine learning (ML) experiments.
+# Use of the Databriks platform, PySpark tool, MLflow library to analyze machine learning (ML) experiments.
+** Using MLflow to Experiment for machine learning models**.
+**Attached notebook file - DiabetesUsingDatabricks.ipynb**
 **Analysis and comparison of metrics in given ML experiments on the example of the Diabetes dataset.**
 
+
 + Results of the trained model based on Diabetes dataset - experiment - application of the Logistic Regression algorithm  
+
++ The beginning of notebook (DiabetesUsingDatabricks.ipynb) content on Databricks
 
 ![image](https://github.com/StaszekKon/mlFlowDatabricksPySpark/assets/47722600/f16f9f8d-a37f-4345-844f-2dd26ab282f0)
 
